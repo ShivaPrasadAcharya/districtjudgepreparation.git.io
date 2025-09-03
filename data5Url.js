@@ -1,12 +1,12 @@
 var data5Url = `sno,subject,description,shorturl,longurl
-02b,git-Link,HTML,index.html,https://github.com/ShivaPrasadAcharya/akaladevi.git.io/edit/main/index.html
-02c,git-Link,Images,data2Images.js,https://github.com/ShivaPrasadAcharya/akaladevi.git.io/edit/main/data2Images.js
-02d,git-Link,URL-not for you,data5Url.js,https://github.com/ShivaPrasadAcharya/akaladevi.git.io/edit/main/data5Url.js
-02e,git-Link,Students,data1Trainees.js,https://github.com/ShivaPrasadAcharya/akaladevi.git.io/edit/main/data1Trainees.js
-02f,git-Link,Assignments,data4Status.js,https://github.com/ShivaPrasadAcharya/akaladevi.git.io/edit/main/data4Status.js
-02g,git-Link,Notes,data3Links.js,https://github.com/ShivaPrasadAcharya/akaladevi.git.io/edit/main/data3Links.js
-02h,git-Link,Upload,to Upload files,https://github.com/ShivaPrasadAcharya/akaladevi.git.io/upload/main
-02i,git-Link,Locked images,data6IMAGESS.js,https://github.com/ShivaPrasadAcharya/akaladevi.git.io/edit/main/data6IMAGESS.js
+02b,git-Link,HTML,index.html,https://github.com/ShivaPrasadAcharya/districtjudgepreparation.git.io/edit/main/index.html
+02c,git-Link,Images,data2Images.js,https://github.com/ShivaPrasadAcharya/districtjudgepreparation.git.io/edit/main/data2Images.js
+02d,git-Link,URL-not for you,data5Url.js,https://github.com/ShivaPrasadAcharya/districtjudgepreparation.git.io/edit/main/data5Url.js
+02e,git-Link,Students,data1Trainees.js,https://github.com/ShivaPrasadAcharya/districtjudgepreparation.git.io/edit/main/data1Trainees.js
+02f,git-Link,Assignments,data4Status.js,https://github.com/ShivaPrasadAcharya/districtjudgepreparation.git.io/edit/main/data4Status.js
+02g,git-Link,Notes,data3Links.js,https://github.com/ShivaPrasadAcharya/districtjudgepreparation.git.io/edit/main/data3Links.js
+02h,git-Link,Upload,to Upload files,https://github.com/ShivaPrasadAcharya/districtjudgepreparation.git.io/upload/main
+02i,git-Link,Locked images,data6IMAGESS.js,https://github.com/ShivaPrasadAcharya/districtjudgepreparation.git.io/edit/main/data6IMAGESS.js
 
 `;
 
@@ -104,6 +104,7 @@ observer.observe(document.body, {
     subtree: true 
 
 });
+
 
 
 
