@@ -1,8 +1,8 @@
 // data2Images.js - Images Dataset
-var data2Images = `ID,Title,Description,Image
-001, Akala Devi,अकलादेव-लामाचौर, akaladevi1.jpg
-002, Akala Devi,अकलादेव-लामाचौर, akaladevi2.jpg
-002, Akala Devi,अकलादेव-लामाचौर, akaladevi3.jpg
+var data2Images = `ID,Title,Description,ImageLink
+001, Akala Devi,अकलादेव-लामाचौर, IMAGE/akaladevi2.jpg
+002, Akala Devi,अकलादेव-लामाचौर, IMAGE/akaladevi3.jpg
+003, Web developer,शिवप्रसाद आचार्य, IMAGE/myphoto.jpg
 
 `;
 
